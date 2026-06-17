@@ -1,0 +1,1001 @@
+phrase,category,risk_score
+registration fee,scam_keyword,42
+processing fee,scam_keyword,28
+security deposit,scam_keyword,21
+refundable fee,scam_keyword,26
+joining fee,scam_keyword,35
+offer letter fee,scam_keyword,37
+training fee,scam_keyword,38
+background verification fee,scam_keyword,41
+payment required,scam_keyword,45
+pay immediately,scam_keyword,31
+urgent payment,scam_keyword,43
+advance payment,scam_keyword,21
+no interview,scam_keyword,44
+instant hiring,scam_keyword,26
+guaranteed job,scam_keyword,23
+100% selection,scam_keyword,26
+easy money,scam_keyword,31
+work from home,scam_keyword,27
+earn daily,scam_keyword,32
+limited vacancies,scam_keyword,29
+immediate joining,scam_keyword,40
+selected candidate,scam_keyword,33
+congratulations selected,scam_keyword,29
+aadhaar card,sensitive_document,38
+pan card,sensitive_document,28
+bank details,sensitive_document,39
+cancelled cheque,sensitive_document,35
+passport copy,sensitive_document,32
+driving licence,sensitive_document,40
+voter id,sensitive_document,27
+salary account details,sensitive_document,36
+upi id,sensitive_document,34
+credit card details,sensitive_document,34
+debit card details,sensitive_document,26
+otp,sensitive_document,35
+whatsapp,communication_channel,29
+telegram,communication_channel,29
+signal app,communication_channel,29
+personal gmail,communication_channel,24
+private number,communication_channel,23
+facebook messenger,communication_channel,25
+instagram dm,communication_channel,25
+sms,communication_channel,26
+within 2 hours,urgency,23
+today only,urgency,18
+immediately,urgency,18
+last chance,urgency,25
+urgent response,urgency,18
+deadline today,urgency,28
+fake hr,domain_verification,20
+unverified recruiter,domain_verification,19
+third party consultant,domain_verification,16
+unknown agency,domain_verification,18
+outsourcing partner,domain_verification,23
+last chance before onboarding,urgency,15
+immediately last chance,urgency,19
+upi id mandatory,sensitive_document,33
+before interview upi id,sensitive_document,29
+signal app before onboarding,communication_channel,21
+mandatory signal app,communication_channel,19
+urgent payment before joining,scam_keyword,38
+for verification urgent payment,scam_keyword,23
+advance payment immediately,scam_keyword,42
+before onboarding advance payment,scam_keyword,21
+unverified recruiter mandatory,domain_verification,18
+for job confirmation unverified recruiter,domain_verification,20
+private number before joining,communication_channel,22
+immediately private number,communication_channel,18
+training fee for job confirmation,scam_keyword,41
+for offer letter training fee,scam_keyword,22
+debit card details immediately,sensitive_document,28
+immediately debit card details,sensitive_document,27
+otp before onboarding,sensitive_document,27
+before joining otp,sensitive_document,31
+third party consultant mandatory,domain_verification,25
+immediately third party consultant,domain_verification,19
+cancelled cheque immediately,sensitive_document,31
+for job confirmation cancelled cheque,sensitive_document,31
+credit card details mandatory,sensitive_document,29
+before interview credit card details,sensitive_document,37
+private number before interview,communication_channel,24
+before joining private number,communication_channel,30
+limited vacancies required,scam_keyword,31
+requested limited vacancies,scam_keyword,25
+whatsapp for verification,communication_channel,20
+required whatsapp,communication_channel,30
+limited vacancies immediately,scam_keyword,27
+for offer letter limited vacancies,scam_keyword,21
+guaranteed job for offer letter,scam_keyword,26
+required guaranteed job,scam_keyword,42
+fake hr before interview,domain_verification,20
+before onboarding fake hr,domain_verification,22
+cancelled cheque before joining,sensitive_document,35
+for verification cancelled cheque,sensitive_document,29
+sms before onboarding,communication_channel,28
+for offer letter sms,communication_channel,18
+urgent payment immediately,scam_keyword,39
+for job confirmation urgent payment,scam_keyword,22
+today only before joining,urgency,26
+required today only,urgency,15
+unverified recruiter for job confirmation,domain_verification,16
+requested unverified recruiter,domain_verification,17
+urgent payment before interview,scam_keyword,40
+driving licence for verification,sensitive_document,25
+for offer letter driving licence,sensitive_document,33
+training fee mandatory,scam_keyword,36
+immediately training fee,scam_keyword,35
+earn daily for offer letter,scam_keyword,26
+before joining earn daily,scam_keyword,20
+private number required,communication_channel,24
+mandatory private number,communication_channel,18
+urgent response for job confirmation,urgency,23
+immediately urgent response,urgency,17
+congratulations selected required,scam_keyword,32
+before onboarding congratulations selected,scam_keyword,32
+pay immediately before joining,scam_keyword,27
+for verification pay immediately,scam_keyword,27
+salary account details mandatory,sensitive_document,33
+for verification salary account details,sensitive_document,37
+pay immediately immediately,scam_keyword,45
+for job confirmation pay immediately,scam_keyword,22
+telegram for verification,communication_channel,28
+immediately telegram,communication_channel,30
+cancelled cheque for job confirmation,sensitive_document,37
+for offer letter cancelled cheque,sensitive_document,28
+work from home immediately,scam_keyword,25
+for verification work from home,scam_keyword,32
+pay immediately mandatory,scam_keyword,32
+requested pay immediately,scam_keyword,28
+personal gmail for verification,communication_channel,17
+mandatory personal gmail,communication_channel,27
+pay immediately before onboarding,scam_keyword,27
+required pay immediately,scam_keyword,42
+deadline today for verification,urgency,28
+before onboarding deadline today,urgency,18
+unverified recruiter required,domain_verification,22
+immediately signal app,communication_channel,21
+personal gmail immediately,communication_channel,16
+processing fee before joining,scam_keyword,44
+for job confirmation processing fee,scam_keyword,24
+advance payment before onboarding,scam_keyword,31
+before joining advance payment,scam_keyword,35
+registration fee required,scam_keyword,24
+requested registration fee,scam_keyword,34
+100% selection requested,scam_keyword,44
+for job confirmation 100% selection,scam_keyword,39
+urgent payment required,scam_keyword,32
+before interview urgent payment,scam_keyword,30
+selected candidate for offer letter,scam_keyword,42
+mandatory selected candidate,scam_keyword,43
+today only for job confirmation,urgency,21
+for job confirmation today only,urgency,19
+joining fee for offer letter,scam_keyword,27
+immediately joining fee,scam_keyword,43
+instant hiring for offer letter,scam_keyword,38
+before interview instant hiring,scam_keyword,25
+registration fee before onboarding,scam_keyword,45
+for offer letter registration fee,scam_keyword,20
+facebook messenger required,communication_channel,15
+for offer letter facebook messenger,communication_channel,25
+urgent response for offer letter,urgency,16
+for job confirmation urgent response,urgency,29
+salary account details for job confirmation,sensitive_document,32
+immediately salary account details,sensitive_document,32
+refundable fee mandatory,scam_keyword,24
+before interview refundable fee,scam_keyword,34
+facebook messenger before interview,communication_channel,17
+for verification facebook messenger,communication_channel,26
+within 2 hours for offer letter,urgency,18
+requested within 2 hours,urgency,17
+last chance before joining,urgency,26
+for job confirmation last chance,urgency,15
+third party consultant for offer letter,domain_verification,25
+requested third party consultant,domain_verification,24
+instagram dm required,communication_channel,17
+requested instagram dm,communication_channel,25
+payment required for offer letter,scam_keyword,33
+for job confirmation payment required,scam_keyword,33
+before onboarding instagram dm,communication_channel,29
+easy money for offer letter,scam_keyword,40
+requested easy money,scam_keyword,20
+outsourcing partner before interview,domain_verification,24
+before joining outsourcing partner,domain_verification,25
+for verification congratulations selected,scam_keyword,32
+selected candidate before interview,scam_keyword,45
+requested selected candidate,scam_keyword,40
+work from home for job confirmation,scam_keyword,40
+for job confirmation work from home,scam_keyword,45
+debit card details for job confirmation,sensitive_document,26
+background verification fee required,scam_keyword,20
+before joining background verification fee,scam_keyword,43
+payment required mandatory,scam_keyword,38
+mandatory payment required,scam_keyword,21
+work from home mandatory,scam_keyword,23
+before onboarding work from home,scam_keyword,21
+upi id for verification,sensitive_document,36
+requested upi id,sensitive_document,39
+training fee immediately,scam_keyword,29
+unverified recruiter before joining,domain_verification,15
+for verification unverified recruiter,domain_verification,24
+bank details before onboarding,sensitive_document,37
+before onboarding bank details,sensitive_document,35
+easy money requested,scam_keyword,32
+required easy money,scam_keyword,29
+no interview immediately,scam_keyword,36
+requested no interview,scam_keyword,25
+immediate joining for verification,scam_keyword,32
+mandatory immediate joining,scam_keyword,20
+bank details before interview,sensitive_document,33
+requested bank details,sensitive_document,39
+congratulations selected before onboarding,scam_keyword,31
+mandatory congratulations selected,scam_keyword,38
+today only before interview,urgency,19
+before interview today only,urgency,21
+today only for verification,urgency,30
+before onboarding today only,urgency,28
+urgent payment for offer letter,scam_keyword,28
+required urgent payment,scam_keyword,43
+no interview required,scam_keyword,23
+before onboarding no interview,scam_keyword,42
+unverified recruiter requested,domain_verification,25
+mandatory unverified recruiter,domain_verification,20
+driving licence before onboarding,sensitive_document,28
+before onboarding driving licence,sensitive_document,27
+before interview unverified recruiter,domain_verification,24
+bank details required,sensitive_document,28
+for verification bank details,sensitive_document,40
+facebook messenger immediately,communication_channel,28
+pay immediately requested,scam_keyword,37
+immediately pay immediately,scam_keyword,39
+advance payment required,scam_keyword,29
+immediately advance payment,scam_keyword,42
+within 2 hours before onboarding,urgency,25
+for verification within 2 hours,urgency,19
+work from home for offer letter,scam_keyword,31
+immediately work from home,scam_keyword,27
+limited vacancies for verification,scam_keyword,20
+mandatory limited vacancies,scam_keyword,34
+immediately refundable fee,scam_keyword,21
+easy money before onboarding,scam_keyword,33
+for offer letter pay immediately,scam_keyword,27
+training fee requested,scam_keyword,38
+requested training fee,scam_keyword,27
+guaranteed job for verification,scam_keyword,30
+for job confirmation guaranteed job,scam_keyword,22
+refundable fee before onboarding,scam_keyword,34
+instant hiring before joining,scam_keyword,39
+before joining instant hiring,scam_keyword,30
+earn daily before joining,scam_keyword,23
+for job confirmation earn daily,scam_keyword,21
+joining fee before interview,scam_keyword,26
+before onboarding joining fee,scam_keyword,22
+instant hiring for verification,scam_keyword,32
+requested instant hiring,scam_keyword,32
+private number for job confirmation,communication_channel,24
+required private number,communication_channel,21
+deadline today requested,urgency,17
+for offer letter deadline today,urgency,19
+immediately deadline today,urgency,21
+salary account details for verification,sensitive_document,36
+easy money mandatory,scam_keyword,37
+mandatory easy money,scam_keyword,42
+pay immediately required,scam_keyword,32
+refundable fee for verification,scam_keyword,40
+before joining refundable fee,scam_keyword,25
+fake hr before onboarding,domain_verification,17
+immediately fake hr,domain_verification,21
+registration fee mandatory,scam_keyword,41
+required registration fee,scam_keyword,39
+advance payment for offer letter,scam_keyword,20
+for offer letter advance payment,scam_keyword,20
+voter id mandatory,sensitive_document,31
+for offer letter voter id,sensitive_document,33
+signal app before interview,communication_channel,25
+requested signal app,communication_channel,28
+immediately before interview,urgency,22
+before joining immediately,urgency,16
+telegram for job confirmation,communication_channel,26
+before joining telegram,communication_channel,27
+required selected candidate,scam_keyword,26
+earn daily immediately,scam_keyword,30
+joining fee required,scam_keyword,36
+required joining fee,scam_keyword,41
+urgent payment for job confirmation,scam_keyword,44
+requested urgent payment,scam_keyword,37
+aadhaar card for offer letter,sensitive_document,31
+before onboarding aadhaar card,sensitive_document,29
+immediately cancelled cheque,sensitive_document,25
+urgent response before joining,urgency,20
+for offer letter urgent response,urgency,21
+credit card details immediately,sensitive_document,39
+requested credit card details,sensitive_document,29
+congratulations selected for offer letter,scam_keyword,30
+immediate joining required,scam_keyword,20
+upi id for job confirmation,sensitive_document,37
+immediately upi id,sensitive_document,37
+bank details for verification,sensitive_document,40
+salary account details for offer letter,sensitive_document,35
+required salary account details,sensitive_document,40
+personal gmail requested,communication_channel,26
+requested personal gmail,communication_channel,20
+signal app for verification,communication_channel,17
+for verification signal app,communication_channel,18
+voter id immediately,sensitive_document,28
+mandatory voter id,sensitive_document,30
+immediately before onboarding,urgency,15
+before onboarding immediately,urgency,27
+for job confirmation fake hr,domain_verification,21
+requested joining fee,scam_keyword,27
+sms for verification,communication_channel,28
+before joining sms,communication_channel,19
+registration fee for offer letter,scam_keyword,38
+immediately registration fee,scam_keyword,24
+100% selection immediately,scam_keyword,36
+immediately 100% selection,scam_keyword,35
+no interview for verification,scam_keyword,40
+before joining no interview,scam_keyword,20
+immediate joining immediately,scam_keyword,40
+before joining immediate joining,scam_keyword,39
+debit card details before joining,sensitive_document,39
+required debit card details,sensitive_document,32
+credit card details for verification,sensitive_document,28
+joining fee for verification,scam_keyword,37
+before joining joining fee,scam_keyword,27
+for verification immediate joining,scam_keyword,32
+for verification payment required,scam_keyword,30
+urgent response mandatory,urgency,22
+before onboarding urgent response,urgency,20
+debit card details required,sensitive_document,35
+for verification debit card details,sensitive_document,28
+before onboarding registration fee,scam_keyword,23
+passport copy before interview,sensitive_document,36
+requested passport copy,sensitive_document,25
+immediately today only,urgency,15
+debit card details before onboarding,sensitive_document,31
+requested debit card details,sensitive_document,25
+third party consultant requested,domain_verification,21
+for offer letter third party consultant,domain_verification,18
+for job confirmation easy money,scam_keyword,26
+payment required immediately,scam_keyword,36
+before onboarding payment required,scam_keyword,28
+work from home before interview,scam_keyword,30
+for offer letter easy money,scam_keyword,30
+salary account details immediately,sensitive_document,39
+background verification fee before interview,scam_keyword,40
+for job confirmation background verification fee,scam_keyword,29
+background verification fee for job confirmation,scam_keyword,31
+mandatory background verification fee,scam_keyword,45
+instant hiring before interview,scam_keyword,29
+before onboarding instant hiring,scam_keyword,26
+fake hr mandatory,domain_verification,19
+before interview fake hr,domain_verification,25
+before interview last chance,urgency,29
+unverified recruiter before onboarding,domain_verification,22
+deadline today before interview,urgency,24
+before interview deadline today,urgency,21
+sms for offer letter,communication_channel,20
+requested sms,communication_channel,16
+before interview background verification fee,scam_keyword,42
+instagram dm immediately,communication_channel,25
+immediate joining mandatory,scam_keyword,22
+required immediate joining,scam_keyword,38
+personal gmail for offer letter,communication_channel,20
+for offer letter personal gmail,communication_channel,28
+passport copy immediately,sensitive_document,33
+before interview passport copy,sensitive_document,40
+unverified recruiter for offer letter,domain_verification,21
+offer letter fee before joining,scam_keyword,40
+for job confirmation offer letter fee,scam_keyword,31
+unknown agency immediately,domain_verification,17
+before joining unknown agency,domain_verification,19
+sms before joining,communication_channel,17
+before interview sms,communication_channel,25
+before joining 100% selection,scam_keyword,22
+100% selection before onboarding,scam_keyword,30
+required 100% selection,scam_keyword,37
+before interview joining fee,scam_keyword,20
+third party consultant before onboarding,domain_verification,20
+before onboarding third party consultant,domain_verification,21
+debit card details for verification,sensitive_document,25
+congratulations selected requested,scam_keyword,36
+immediately congratulations selected,scam_keyword,41
+mandatory training fee,scam_keyword,21
+before interview urgent response,urgency,27
+offer letter fee for offer letter,scam_keyword,25
+mandatory offer letter fee,scam_keyword,23
+deadline today immediately,urgency,22
+advance payment before interview,scam_keyword,45
+required payment required,scam_keyword,30
+signal app immediately,communication_channel,17
+before joining signal app,communication_channel,20
+telegram before joining,communication_channel,17
+required telegram,communication_channel,20
+upi id for offer letter,sensitive_document,38
+before joining upi id,sensitive_document,31
+congratulations selected mandatory,scam_keyword,34
+for job confirmation congratulations selected,scam_keyword,45
+cancelled cheque required,sensitive_document,32
+before onboarding cancelled cheque,sensitive_document,36
+telegram required,communication_channel,28
+security deposit before interview,scam_keyword,42
+before joining security deposit,scam_keyword,41
+joining fee mandatory,scam_keyword,25
+for job confirmation joining fee,scam_keyword,45
+offer letter fee before interview,scam_keyword,33
+for offer letter offer letter fee,scam_keyword,36
+instant hiring mandatory,scam_keyword,26
+required instant hiring,scam_keyword,39
+payment required requested,scam_keyword,31
+training fee before interview,scam_keyword,24
+required training fee,scam_keyword,40
+driving licence for offer letter,sensitive_document,26
+for verification driving licence,sensitive_document,37
+instagram dm for job confirmation,communication_channel,20
+required instagram dm,communication_channel,29
+processing fee before interview,scam_keyword,26
+mandatory processing fee,scam_keyword,23
+bank details before joining,sensitive_document,38
+security deposit for job confirmation,scam_keyword,25
+upi id immediately,sensitive_document,28
+mandatory upi id,sensitive_document,37
+immediately immediate joining,scam_keyword,27
+signal app required,communication_channel,19
+before onboarding signal app,communication_channel,19
+for offer letter unverified recruiter,domain_verification,21
+for offer letter signal app,communication_channel,20
+aadhaar card for verification,sensitive_document,40
+mandatory aadhaar card,sensitive_document,36
+refundable fee immediately,scam_keyword,20
+for verification refundable fee,scam_keyword,43
+outsourcing partner requested,domain_verification,15
+required outsourcing partner,domain_verification,22
+credit card details for offer letter,sensitive_document,39
+mandatory credit card details,sensitive_document,30
+for job confirmation salary account details,sensitive_document,29
+upi id before interview,sensitive_document,26
+before onboarding upi id,sensitive_document,40
+otp for job confirmation,sensitive_document,28
+before interview otp,sensitive_document,32
+aadhaar card before interview,sensitive_document,32
+for job confirmation aadhaar card,sensitive_document,26
+driving licence before interview,sensitive_document,31
+required driving licence,sensitive_document,32
+advance payment requested,scam_keyword,33
+signal app before joining,communication_channel,17
+third party consultant before joining,domain_verification,20
+mandatory third party consultant,domain_verification,24
+training fee for verification,scam_keyword,42
+for verification training fee,scam_keyword,22
+payment required required,scam_keyword,20
+within 2 hours immediately,urgency,29
+immediate joining for job confirmation,scam_keyword,45
+for job confirmation immediate joining,scam_keyword,43
+limited vacancies requested,scam_keyword,31
+required limited vacancies,scam_keyword,31
+before interview work from home,scam_keyword,22
+private number mandatory,communication_channel,21
+for job confirmation private number,communication_channel,30
+background verification fee for verification,scam_keyword,37
+requested background verification fee,scam_keyword,38
+mandatory work from home,scam_keyword,23
+upi id before onboarding,sensitive_document,31
+easy money before interview,scam_keyword,24
+before onboarding unverified recruiter,domain_verification,23
+pan card before joining,sensitive_document,34
+mandatory pan card,sensitive_document,28
+personal gmail mandatory,communication_channel,16
+for verification personal gmail,communication_channel,15
+instagram dm for offer letter,communication_channel,15
+for job confirmation instagram dm,communication_channel,24
+pay immediately before interview,scam_keyword,28
+bank details immediately,sensitive_document,34
+for offer letter bank details,sensitive_document,34
+before interview facebook messenger,communication_channel,18
+whatsapp mandatory,communication_channel,27
+for job confirmation whatsapp,communication_channel,28
+facebook messenger for offer letter,communication_channel,21
+for job confirmation facebook messenger,communication_channel,19
+driving licence required,sensitive_document,27
+immediately driving licence,sensitive_document,28
+within 2 hours mandatory,urgency,19
+required within 2 hours,urgency,17
+payment required for job confirmation,scam_keyword,31
+advance payment mandatory,scam_keyword,39
+required advance payment,scam_keyword,40
+signal app requested,communication_channel,18
+offer letter fee for verification,scam_keyword,21
+for verification private number,communication_channel,16
+refundable fee before joining,scam_keyword,40
+requested refundable fee,scam_keyword,26
+for verification aadhaar card,sensitive_document,38
+last chance before interview,urgency,28
+mandatory last chance,urgency,23
+offer letter fee requested,scam_keyword,28
+requested offer letter fee,scam_keyword,32
+debit card details requested,sensitive_document,30
+for job confirmation debit card details,sensitive_document,38
+third party consultant for job confirmation,domain_verification,18
+immediately within 2 hours,urgency,22
+unknown agency for offer letter,domain_verification,24
+before onboarding unknown agency,domain_verification,19
+personal gmail before interview,communication_channel,17
+before onboarding facebook messenger,communication_channel,27
+before interview immediate joining,scam_keyword,30
+limited vacancies before onboarding,scam_keyword,24
+refundable fee before interview,scam_keyword,42
+mandatory telegram,communication_channel,19
+before interview security deposit,scam_keyword,25
+for verification voter id,sensitive_document,40
+no interview for job confirmation,scam_keyword,34
+for verification no interview,scam_keyword,42
+instant hiring for job confirmation,scam_keyword,30
+processing fee requested,scam_keyword,20
+before interview processing fee,scam_keyword,31
+guaranteed job for job confirmation,scam_keyword,21
+requested guaranteed job,scam_keyword,36
+unknown agency required,domain_verification,20
+for verification unknown agency,domain_verification,22
+for job confirmation credit card details,sensitive_document,40
+before joining processing fee,scam_keyword,42
+pan card before onboarding,sensitive_document,29
+required pan card,sensitive_document,38
+whatsapp for offer letter,communication_channel,19
+before interview whatsapp,communication_channel,16
+limited vacancies for offer letter,scam_keyword,24
+before interview limited vacancies,scam_keyword,21
+mandatory 100% selection,scam_keyword,33
+unknown agency requested,domain_verification,24
+required unknown agency,domain_verification,20
+fake hr immediately,domain_verification,25
+mandatory fake hr,domain_verification,15
+immediately limited vacancies,scam_keyword,28
+urgent response requested,urgency,26
+mandatory urgent response,urgency,16
+salary account details before joining,sensitive_document,26
+for offer letter salary account details,sensitive_document,36
+payment required before interview,scam_keyword,30
+before joining payment required,scam_keyword,27
+mandatory whatsapp,communication_channel,18
+instant hiring before onboarding,scam_keyword,29
+for offer letter instant hiring,scam_keyword,22
+whatsapp before joining,communication_channel,26
+requested whatsapp,communication_channel,26
+earn daily required,scam_keyword,41
+required earn daily,scam_keyword,35
+whatsapp immediately,communication_channel,27
+congratulations selected immediately,scam_keyword,34
+immediate joining for offer letter,scam_keyword,44
+before onboarding immediate joining,scam_keyword,27
+no interview before joining,scam_keyword,43
+for job confirmation otp,sensitive_document,40
+within 2 hours before joining,urgency,18
+before interview within 2 hours,urgency,19
+outsourcing partner required,domain_verification,15
+before interview outsourcing partner,domain_verification,22
+before interview offer letter fee,scam_keyword,23
+salary account details required,sensitive_document,27
+requested salary account details,sensitive_document,39
+debit card details for offer letter,sensitive_document,31
+for offer letter debit card details,sensitive_document,40
+pan card for verification,sensitive_document,28
+before interview pan card,sensitive_document,37
+personal gmail for job confirmation,communication_channel,24
+outsourcing partner mandatory,domain_verification,16
+immediately outsourcing partner,domain_verification,20
+joining fee for job confirmation,scam_keyword,24
+urgent response for verification,urgency,21
+telegram before interview,communication_channel,22
+immediately required,urgency,27
+before interview immediately,urgency,20
+voter id requested,sensitive_document,34
+required voter id,sensitive_document,32
+selected candidate mandatory,scam_keyword,33
+for offer letter processing fee,scam_keyword,36
+deadline today before onboarding,urgency,30
+before joining deadline today,urgency,21
+today only immediately,urgency,22
+before joining today only,urgency,20
+unverified recruiter before interview,domain_verification,21
+required unverified recruiter,domain_verification,17
+before joining urgent payment,scam_keyword,27
+required credit card details,sensitive_document,32
+before onboarding guaranteed job,scam_keyword,25
+last chance for verification,urgency,22
+deadline today required,urgency,15
+fake hr for offer letter,domain_verification,16
+for verification fake hr,domain_verification,15
+aadhaar card mandatory,sensitive_document,31
+for offer letter aadhaar card,sensitive_document,40
+cancelled cheque before interview,sensitive_document,39
+voter id for job confirmation,sensitive_document,29
+before joining offer letter fee,scam_keyword,43
+required last chance,urgency,16
+for verification deadline today,urgency,20
+mandatory debit card details,sensitive_document,39
+driving licence before joining,sensitive_document,29
+bank details for job confirmation,sensitive_document,38
+before joining bank details,sensitive_document,25
+for job confirmation instant hiring,scam_keyword,40
+before joining registration fee,scam_keyword,36
+for verification last chance,urgency,29
+advance payment for verification,scam_keyword,36
+requested advance payment,scam_keyword,36
+bank details requested,sensitive_document,27
+for job confirmation bank details,sensitive_document,40
+joining fee immediately,scam_keyword,45
+payment required for verification,scam_keyword,29
+before interview payment required,scam_keyword,35
+joining fee requested,scam_keyword,22
+selected candidate for job confirmation,scam_keyword,43
+for offer letter selected candidate,scam_keyword,40
+passport copy before joining,sensitive_document,26
+fake hr requested,domain_verification,17
+before joining fake hr,domain_verification,25
+refundable fee for job confirmation,scam_keyword,20
+required processing fee,scam_keyword,45
+processing fee immediately,scam_keyword,29
+today only for offer letter,urgency,29
+whatsapp required,communication_channel,27
+before joining whatsapp,communication_channel,20
+mandatory joining fee,scam_keyword,41
+private number immediately,communication_channel,18
+before joining passport copy,sensitive_document,29
+passport copy for job confirmation,sensitive_document,33
+for job confirmation passport copy,sensitive_document,30
+requested today only,urgency,24
+for offer letter security deposit,scam_keyword,40
+guaranteed job mandatory,scam_keyword,22
+for verification guaranteed job,scam_keyword,36
+immediately voter id,sensitive_document,38
+unknown agency before interview,domain_verification,25
+for offer letter unknown agency,domain_verification,24
+before interview bank details,sensitive_document,34
+credit card details before onboarding,sensitive_document,30
+aadhaar card before onboarding,sensitive_document,37
+before interview aadhaar card,sensitive_document,30
+before joining pay immediately,scam_keyword,20
+required work from home,scam_keyword,23
+last chance required,urgency,29
+guaranteed job before onboarding,scam_keyword,40
+immediately guaranteed job,scam_keyword,23
+mandatory bank details,sensitive_document,40
+urgent response required,urgency,17
+before joining cancelled cheque,sensitive_document,26
+security deposit before joining,scam_keyword,32
+pan card for job confirmation,sensitive_document,29
+before joining pan card,sensitive_document,34
+before joining instagram dm,communication_channel,22
+otp before joining,sensitive_document,40
+voter id before joining,sensitive_document,26
+before onboarding voter id,sensitive_document,36
+work from home required,scam_keyword,32
+requested voter id,sensitive_document,27
+before interview training fee,scam_keyword,36
+offer letter fee before onboarding,scam_keyword,43
+for verification offer letter fee,scam_keyword,29
+limited vacancies before joining,scam_keyword,34
+for verification limited vacancies,scam_keyword,28
+whatsapp before interview,communication_channel,30
+for offer letter whatsapp,communication_channel,15
+for verification earn daily,scam_keyword,20
+whatsapp before onboarding,communication_channel,23
+offer letter fee for job confirmation,scam_keyword,34
+before onboarding offer letter fee,scam_keyword,31
+before interview private number,communication_channel,18
+no interview mandatory,scam_keyword,27
+mandatory no interview,scam_keyword,22
+before interview debit card details,sensitive_document,25
+payment required before joining,scam_keyword,33
+work from home before joining,scam_keyword,34
+before joining work from home,scam_keyword,24
+selected candidate for verification,scam_keyword,43
+credit card details required,sensitive_document,28
+before joining congratulations selected,scam_keyword,21
+cancelled cheque for verification,sensitive_document,27
+requested cancelled cheque,sensitive_document,36
+required cancelled cheque,sensitive_document,30
+for job confirmation limited vacancies,scam_keyword,39
+work from home for verification,scam_keyword,26
+last chance for offer letter,urgency,25
+100% selection before interview,scam_keyword,32
+before interview 100% selection,scam_keyword,37
+immediately mandatory,urgency,24
+mandatory immediately,urgency,18
+before onboarding selected candidate,scam_keyword,26
+joining fee before joining,scam_keyword,27
+pay immediately for offer letter,scam_keyword,36
+mandatory facebook messenger,communication_channel,26
+before joining guaranteed job,scam_keyword,41
+processing fee before onboarding,scam_keyword,25
+security deposit required,scam_keyword,26
+whatsapp for job confirmation,communication_channel,15
+requested 100% selection,scam_keyword,37
+fake hr for job confirmation,domain_verification,17
+otp for offer letter,sensitive_document,28
+work from home before onboarding,scam_keyword,36
+requested work from home,scam_keyword,28
+required bank details,sensitive_document,39
+otp required,sensitive_document,37
+before onboarding otp,sensitive_document,35
+aadhaar card before joining,sensitive_document,35
+before onboarding pay immediately,scam_keyword,34
+outsourcing partner before onboarding,domain_verification,19
+before interview signal app,communication_channel,19
+congratulations selected before interview,scam_keyword,37
+for job confirmation advance payment,scam_keyword,31
+for job confirmation refundable fee,scam_keyword,41
+unknown agency before joining,domain_verification,18
+telegram mandatory,communication_channel,16
+requested telegram,communication_channel,20
+private number for verification,communication_channel,30
+processing fee mandatory,scam_keyword,27
+for verification instant hiring,scam_keyword,45
+congratulations selected before joining,scam_keyword,20
+urgent payment mandatory,scam_keyword,27
+mandatory urgent payment,scam_keyword,40
+before interview pay immediately,scam_keyword,20
+telegram before onboarding,communication_channel,15
+for offer letter no interview,scam_keyword,22
+for job confirmation registration fee,scam_keyword,32
+passport copy required,sensitive_document,36
+for offer letter joining fee,scam_keyword,32
+immediate joining requested,scam_keyword,29
+required sms,communication_channel,21
+driving licence immediately,sensitive_document,31
+outsourcing partner for offer letter,domain_verification,18
+for job confirmation upi id,sensitive_document,37
+deadline today before joining,urgency,25
+before onboarding refundable fee,scam_keyword,26
+otp mandatory,sensitive_document,25
+for offer letter otp,sensitive_document,40
+instagram dm for verification,communication_channel,25
+for offer letter instagram dm,communication_channel,23
+deadline today for offer letter,urgency,20
+otp for verification,sensitive_document,39
+mandatory otp,sensitive_document,34
+required no interview,scam_keyword,42
+telegram immediately,communication_channel,23
+for job confirmation telegram,communication_channel,23
+immediately no interview,scam_keyword,35
+earn daily requested,scam_keyword,33
+immediately earn daily,scam_keyword,27
+for offer letter fake hr,domain_verification,20
+voter id required,sensitive_document,30
+for job confirmation voter id,sensitive_document,26
+pan card required,sensitive_document,29
+for offer letter pan card,sensitive_document,29
+mandatory earn daily,scam_keyword,41
+for job confirmation immediately,urgency,29
+before joining third party consultant,domain_verification,24
+joining fee before onboarding,scam_keyword,35
+immediate joining before joining,scam_keyword,34
+for offer letter immediate joining,scam_keyword,26
+mandatory deadline today,urgency,16
+unverified recruiter for verification,domain_verification,21
+immediately for offer letter,urgency,24
+congratulations selected for verification,scam_keyword,20
+requested congratulations selected,scam_keyword,26
+background verification fee before joining,scam_keyword,42
+for offer letter background verification fee,scam_keyword,39
+aadhaar card requested,sensitive_document,39
+mandatory instant hiring,scam_keyword,36
+background verification fee for offer letter,scam_keyword,39
+today only requested,urgency,21
+100% selection for verification,scam_keyword,33
+requested immediately,urgency,15
+last chance for job confirmation,urgency,21
+training fee before onboarding,scam_keyword,41
+before joining training fee,scam_keyword,29
+guaranteed job before joining,scam_keyword,24
+before interview guaranteed job,scam_keyword,35
+instagram dm before joining,communication_channel,19
+mandatory instagram dm,communication_channel,23
+cancelled cheque requested,sensitive_document,28
+before onboarding processing fee,scam_keyword,25
+within 2 hours for verification,urgency,29
+for job confirmation within 2 hours,urgency,19
+requested earn daily,scam_keyword,33
+today only before onboarding,urgency,24
+pan card before interview,sensitive_document,39
+fake hr for verification,domain_verification,23
+required fake hr,domain_verification,16
+processing fee for job confirmation,scam_keyword,22
+deadline today mandatory,urgency,23
+for job confirmation deadline today,urgency,16
+background verification fee requested,scam_keyword,25
+required background verification fee,scam_keyword,41
+before joining limited vacancies,scam_keyword,27
+instant hiring immediately,scam_keyword,23
+otp immediately,sensitive_document,32
+easy money required,scam_keyword,41
+for offer letter 100% selection,scam_keyword,33
+personal gmail required,communication_channel,27
+for job confirmation personal gmail,communication_channel,18
+registration fee requested,scam_keyword,42
+instagram dm mandatory,communication_channel,29
+refundable fee required,scam_keyword,26
+for verification advance payment,scam_keyword,35
+immediately easy money,scam_keyword,39
+aadhaar card immediately,sensitive_document,34
+before onboarding sms,communication_channel,29
+voter id for offer letter,sensitive_document,28
+earn daily mandatory,scam_keyword,34
+requested driving licence,sensitive_document,27
+otp before interview,sensitive_document,25
+congratulations selected for job confirmation,scam_keyword,34
+pan card mandatory,sensitive_document,36
+immediately pan card,sensitive_document,27
+refundable fee for offer letter,scam_keyword,32
+fake hr required,domain_verification,19
+guaranteed job before interview,scam_keyword,34
+required congratulations selected,scam_keyword,32
+today only required,urgency,22
+selected candidate immediately,scam_keyword,26
+for job confirmation selected candidate,scam_keyword,26
+personal gmail before onboarding,communication_channel,15
+required personal gmail,communication_channel,25
+pan card for offer letter,sensitive_document,32
+mandatory refundable fee,scam_keyword,25
+training fee for offer letter,scam_keyword,38
+earn daily for job confirmation,scam_keyword,22
+instant hiring requested,scam_keyword,32
+immediately instant hiring,scam_keyword,33
+before interview advance payment,scam_keyword,35
+immediately otp,sensitive_document,38
+for offer letter within 2 hours,urgency,16
+last chance mandatory,urgency,22
+immediately unknown agency,domain_verification,21
+100% selection mandatory,scam_keyword,43
+signal app for job confirmation,communication_channel,30
+pay immediately for verification,scam_keyword,24
+before onboarding within 2 hours,urgency,26
+required passport copy,sensitive_document,33
+urgent response before interview,urgency,20
+urgent payment for verification,scam_keyword,29
+no interview before interview,scam_keyword,30
+before interview no interview,scam_keyword,39
+limited vacancies before interview,scam_keyword,25
+immediately immediately,urgency,28
+for offer letter immediately,urgency,19
+instagram dm requested,communication_channel,28
+immediately instagram dm,communication_channel,24
+limited vacancies mandatory,scam_keyword,36
+facebook messenger requested,communication_channel,20
+before joining facebook messenger,communication_channel,28
+before interview selected candidate,scam_keyword,32
+advance payment for job confirmation,scam_keyword,40
+requested immediate joining,scam_keyword,20
+before interview personal gmail,communication_channel,19
+required third party consultant,domain_verification,20
+before onboarding easy money,scam_keyword,44
+for verification sms,communication_channel,25
+required facebook messenger,communication_channel,25
+required signal app,communication_channel,19
+salary account details before onboarding,sensitive_document,32
+for verification urgent response,urgency,21
+outsourcing partner for verification,domain_verification,24
+mandatory outsourcing partner,domain_verification,25
+immediately aadhaar card,sensitive_document,31
+within 2 hours requested,urgency,19
+required urgent response,urgency,20
+for job confirmation no interview,scam_keyword,29
+selected candidate required,scam_keyword,38
+passport copy for offer letter,sensitive_document,30
+selected candidate before joining,scam_keyword,37
+fake hr before joining,domain_verification,18
+processing fee for verification,scam_keyword,36
+for verification processing fee,scam_keyword,24
+third party consultant immediately,domain_verification,25
+for verification third party consultant,domain_verification,18
+before onboarding earn daily,scam_keyword,24
+background verification fee before onboarding,scam_keyword,41
+immediately background verification fee,scam_keyword,22
+sms for job confirmation,communication_channel,25
+immediately sms,communication_channel,18
+facebook messenger before onboarding,communication_channel,20
+background verification fee immediately,scam_keyword,33
+outsourcing partner for job confirmation,domain_verification,17
+before onboarding outsourcing partner,domain_verification,25
+limited vacancies for job confirmation,scam_keyword,34
+training fee required,scam_keyword,43
+private number for offer letter,communication_channel,30
+security deposit mandatory,scam_keyword,38
+for verification security deposit,scam_keyword,38
+for offer letter refundable fee,scam_keyword,26
+debit card details mandatory,sensitive_document,34
+before joining debit card details,sensitive_document,33
+immediately for verification,urgency,23
+mandatory passport copy,sensitive_document,29
+security deposit before onboarding,scam_keyword,31
+mandatory security deposit,scam_keyword,45
+for offer letter urgent payment,scam_keyword,32
+driving licence for job confirmation,sensitive_document,28
+required deadline today,urgency,28
+before onboarding pan card,sensitive_document,35
+salary account details requested,sensitive_document,39
+mandatory salary account details,sensitive_document,28
+for job confirmation training fee,scam_keyword,37
+offer letter fee required,scam_keyword,25
+required offer letter fee,scam_keyword,43
+facebook messenger before joining,communication_channel,18
+payment required before onboarding,scam_keyword,41
+before joining driving licence,sensitive_document,27
+sms before interview,communication_channel,25
+for offer letter outsourcing partner,domain_verification,23
+for offer letter guaranteed job,scam_keyword,22
+for job confirmation third party consultant,domain_verification,24
+immediately personal gmail,communication_channel,16
+immediately bank details,sensitive_document,31
+sms requested,communication_channel,17
+for job confirmation sms,communication_channel,21
+selected candidate before onboarding,scam_keyword,25
+for verification selected candidate,scam_keyword,20
+processing fee required,scam_keyword,45
+before onboarding limited vacancies,scam_keyword,34
+before interview salary account details,sensitive_document,39
+outsourcing partner immediately,domain_verification,18
+for verification outsourcing partner,domain_verification,24
+unknown agency before onboarding,domain_verification,25
+credit card details for job confirmation,sensitive_document,36
+voter id before interview,sensitive_document,32
+urgent response immediately,urgency,25
+immediately security deposit,scam_keyword,34
+100% selection for offer letter,scam_keyword,28
+for verification 100% selection,scam_keyword,32
+requested facebook messenger,communication_channel,30
+within 2 hours required,urgency,25
+for verification pan card,sensitive_document,38
+for job confirmation security deposit,scam_keyword,20
+mandatory sms,communication_channel,27
+registration fee before joining,scam_keyword,25
+offer letter fee immediately,scam_keyword,33
+requested pan card,sensitive_document,35
+before onboarding salary account details,sensitive_document,36
+urgent payment requested,scam_keyword,34
+before onboarding training fee,scam_keyword,37
+for verification background verification fee,scam_keyword,37
+mandatory pay immediately,scam_keyword,31
+mandatory cancelled cheque,sensitive_document,27
+voter id for verification,sensitive_document,31
+before interview instagram dm,communication_channel,26
+sms immediately,communication_channel,21
+before joining personal gmail,communication_channel,15
+within 2 hours before interview,urgency,16
+before joining salary account details,sensitive_document,40
+requested deadline today,urgency,20
+requested security deposit,scam_keyword,34
+upi id before joining,sensitive_document,25
+mandatory guaranteed job,scam_keyword,44
+before joining aadhaar card,sensitive_document,34
+refundable fee requested,scam_keyword,31
+required refundable fee,scam_keyword,38
+for verification whatsapp,communication_channel,15
+mandatory today only,urgency,17
+immediately unverified recruiter,domain_verification,24
+immediately payment required,scam_keyword,25
+third party consultant required,domain_verification,19
+for offer letter telegram,communication_channel,28
+instagram dm before interview,communication_channel,17
+processing fee for offer letter,scam_keyword,24
+debit card details before interview,sensitive_document,25
+sms required,communication_channel,17
+before interview third party consultant,domain_verification,25
+100% selection for job confirmation,scam_keyword,28
+for offer letter credit card details,sensitive_document,32
+for job confirmation pan card,sensitive_document,35
+whatsapp requested,communication_channel,22
+easy money immediately,scam_keyword,25
+deadline today for job confirmation,urgency,30
+registration fee before interview,scam_keyword,42
+for verification registration fee,scam_keyword,36
+requested payment required,scam_keyword,30
+third party consultant for verification,domain_verification,17
+immediately selected candidate,scam_keyword,20
+immediately processing fee,scam_keyword,34
+earn daily for verification,scam_keyword,21
+unverified recruiter immediately,domain_verification,18
+upi id requested,sensitive_document,39
+before onboarding background verification fee,scam_keyword,21
+for verification today only,urgency,25
+registration fee for verification,scam_keyword,25
+last chance immediately,urgency,16
+for verification passport copy,sensitive_document,40
+salary account details before interview,sensitive_document,30
+requested aadhaar card,sensitive_document,27
+before interview driving licence,sensitive_document,25
+earn daily before onboarding,scam_keyword,41
+today only mandatory,urgency,25
+before joining last chance,urgency,20
+cancelled cheque mandatory,sensitive_document,27
+before interview cancelled cheque,sensitive_document,40
+training fee before joining,scam_keyword,24
+telegram requested,communication_channel,24
+before interview registration fee,scam_keyword,22
+before interview telegram,communication_channel,15
+requested otp,sensitive_document,29
+cancelled cheque before onboarding,sensitive_document,31
+required otp,sensitive_document,29
+mandatory unknown agency,domain_verification,17
+for offer letter passport copy,sensitive_document,30
