@@ -800,8 +800,8 @@ const handleImageAnalysis = async () => {
                   <div className="flex items-start gap-3 px-4 py-3 rounded-xl bg-blue-500/5 border border-blue-500/20">
                     <AlertCircle className="w-4 h-4 text-blue-400 flex-shrink-0 mt-0.5" />
                     <div>
-                      <p className="text-blue-300 text-sm font-medium">OCR Integration Coming Soon</p>
-                      <p className="text-slate-500 text-xs mt-0.5">Text extraction from images will be available in the next release. Mock analysis is performed in the meantime.</p>
+                      <p className="text-blue-300 text-sm font-medium">OCR Integration </p>
+                      <p className="text-slate-500 text-xs mt-0.5">Text extraction from images will be available in the  release version. </p>
                     </div>
                   </div>
 
