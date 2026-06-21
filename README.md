@@ -1,244 +1,106 @@
-🛡️ TrustShield AI
-Intelligent Message Trust Assessment System
-🚀 Project Overview
-TrustShield AI is an advanced cybersecurity platform developed to combat the growing threat of online scams, phishing attacks, and social engineering fraud.
-The system intelligently analyzes both textual and image-based communications to determine whether a message is Legitimate, Suspicious, or Scam.
-The platform combines:
-Machine Learning-based classification
-Rule-Based Threat Detection
-OCR-powered Screenshot Analysis
-Dynamic Trust Score Generation
-Risk Assessment Engine
-Explainable AI Recommendations
-🎯 Problem Statement
-With the rapid increase in digital communication platforms such as WhatsApp, Telegram, Email, LinkedIn, and Social Media, users are frequently targeted by:
-Job Scams
-Phishing Attacks
-Fake Recruitment Messages
-Impersonation Fraud
-Financial Fraud
-Social Engineering Attacks
-Manual verification is time-consuming and often ineffective.
-TrustShield AI provides an automated and intelligent trust assessment framework capable of identifying potential threats before users become victims.
-✨ Key Features
-🔍 AI-Powered Text Analysis
-Analyze suspicious messages instantly.
-Detect phishing patterns and scam indicators.
-Predict whether communication is legitimate or fraudulent.
-🖼️ OCR-Based Screenshot Analysis
-Upload screenshots from:
-WhatsApp
-Telegram
-LinkedIn
-Email
-SMS
-Extract hidden text automatically using OCR.
-🧠 Hybrid Detection Engine
-Combines:
-Machine Learning
-Rule Engine
-Fuzzy Matching
-Threat Intelligence
-for enhanced detection accuracy.
-📊 Dynamic Trust Score
-Generate:
-Trust Score (0-100)
-Risk Level
-Confidence Score
-Security Recommendations
-📈 Interactive Dashboard
-Real-time analytics dashboard with:
-Trust Distribution
-Risk Level Distribution
-Threat Statistics
-Security Insights
-🏗️ System Architecture
-                    +------------------+
-                    |      User        |
-                    +--------+---------+
-                             |
-                             v
-                 +----------------------+
-                 |  Text / Image Input  |
-                 +----------+-----------+
-                            |
-              +-------------+-------------+
-              |                           |
-              v                           v
- +----------------------+     +----------------------+
- | Text Message Input   |     | Screenshot Upload   |
- +----------------------+     +----------+----------+
-                                         |
-                                         v
-                            +----------------------+
-                            |     EasyOCR Engine   |
-                            +----------+-----------+
-                                       |
-                                       v
-                           +-----------------------+
-                           | Extracted Text Output |
-                           +-----------+-----------+
-                                       |
-                                       v
-                           +-----------------------+
-                           | Text Preprocessing    |
-                           +-----------+-----------+
-                                       |
-                                       v
-                           +-----------------------+
-                           | TF-IDF Vectorization  |
-                           +-----------+-----------+
-                                       |
-                                       v
-                    +--------------------------------------+
-                    | Logistic Regression ML Classifier    |
-                    +--------------------------------------+
-                                       |
-                                       v
-                    +--------------------------------------+
-                    | Rule Engine + RapidFuzz Matching    |
-                    +--------------------------------------+
-                                       |
-                                       v
-                    +--------------------------------------+
-                    | Final Risk Assessment Engine         |
-                    +--------------------------------------+
-                                       |
-                                       v
-                    +--------------------------------------+
-                    | Trust Score + Recommendations        |
-                    +--------------------------------------+
+📊 Student Performance Factor Analysis
 
-🔄 Working Flow
-User Input
-    ↓
-Text/Image Submission
-    ↓
-OCR Text Extraction (if image)
-    ↓
-Text Cleaning & Preprocessing
-    ↓
-TF-IDF Feature Extraction
-    ↓
-Machine Learning Prediction
-    ↓
-Rule-Based Threat Analysis
-    ↓
-Risk Score Calculation
-    ↓
-Trust Score Generation
-    ↓
-Recommendation Engine
-    ↓
-Final Security Verdict
 
-🧪 Machine Learning Pipeline
-Data Preprocessing
-Data Cleaning
-Missing Value Handling
-Text Normalization
-Lower Casing
-Stopword Removal
-Feature Engineering
-TF-IDF Vectorization
-Maximum Features: 10,000
-Classification Algorithm
-Logistic Regression
-Evaluation Metrics
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
-📂 Datasets Used
-The system integrates multiple cybersecurity datasets.
-DatasetPurposeLinkedIn Job DatasetLegitimate recruitment messagesRecruitment Emails DatasetJob communication analysisPhishing Email DatasetScam identificationWhatsApp Scam DatasetFraud detectionScam Keywords DatasetRule generationLegitimate Keywords DatasetTrust verificationSensitive Documents DatasetIdentity document detectionCommunication Channels DatasetPlatform verification
-Final Dataset Statistics
-CategoryRecordsScam Keywords1000Legitimate Keywords1000Sensitive Documents1000Communication Channels1000Recruitment Process1000🛠️ Technology Stack
-CategoryTechnologiesFrontendReact.js, TypeScriptStylingTailwind CSSBackendFlaskMachine LearningScikit-LearnOCREasyOCRFuzzy MatchingRapidFuzzData ProcessingPandas, NumPyVisualizationRechartsDeploymentRailway, VercelVersion ControlGit, GitHub📸 Project Screenshots
-🏠 Home Page
-Add Screenshot: assets/home-page.png
+A data analysis project to find which factors affect student academic results the most.
 
-🔎 Message Analyzer
-Add Screenshot: assets/message-analyzer.png
 
-📊 Analytics Dashboard
-Add Screenshot: assets/dashboard.png
 
-ℹ️ About Page
-Add Screenshot: assets/about-page.png
+🛠️ Tools Used
 
-🖼️ OCR Screenshot Upload
-Add Screenshot: assets/ocr-analysis.png
 
-📦 Installation
-Clone Repository
-git clone https://github.com/17neerajkr/TrustShield-AI.git
+Python | Pandas | NumPy | Matplotlib | Seaborn
 
-cd TrustShield-AI
 
-⚙️ Backend Setup
-python -m venv .venv
 
-source .venv/bin/activate
+📁 What I Did
 
-Windows:
-.venv\Scripts\activate
 
-Install dependencies:
-pip install -r requirements.txt
+Day 1 — Data Cleaning
 
-Run backend:
-python server.py
 
-💻 Frontend Setup
-npm install
+Loaded dataset of 6,378 students
+Removed missing values using df.dropna()
+Removed duplicates using df.drop_duplicates()
+Converted Yes/No columns to 1/0
+Removed outliers using IQR method
 
-npm run dev
 
-🌐 API Endpoints
-Health Check
-GET /
+Day 2 — Data Analysis
 
-Analyze Text
-POST /analyze
 
-Request
-{
-    "message": "Congratulations! Pay ₹2500 registration fee."
-}
+Correlation analysis using df.corr()
+Groupby analysis by gender, attendance, hours studied
+Used np.where(), np.median(), np.percentile() for stats
 
-Analyze Screenshot
-POST /analyze-image
 
-Upload image using multipart/form-data.
-📊 Sample Output
-{
-  "trust_score": 8.39,
-  "risk_level": "Critical Risk",
-  "verdict": "Scam",
-  "recommendation": "Do NOT proceed."
-}
+Day 3 — Data Visualization
 
-🔒 Security Features
-Scam Keyword Detection
-Sensitive Document Detection
-Payment Request Identification
-Communication Channel Verification
-Explainable AI Responses
-Trust Score Computation
-🚀 Future Enhancements
-Browser Extension Integration
-Multilingual Support
-Deep Learning Models
-Mobile Application
-Voice Scam Detection
-Real-Time Threat Intelligence
-👨‍💻 Developer
-Neeraj Kumar
-B.Tech CSE (Data Science)
-Raj Kumar Goel Institute of Technology (AKTU)
-Connect With Me
-GitHub: https://github.com/17neerajkr
-LinkedIn: https://linkedin.com/in/neeraj-kumar-delhi
-⭐ If you found this project useful, don't forget to star the repository!
+
+Bar chart, Line chart, Histogram, Pie chart, Scatter plot using Matplotlib
+Barplot, Boxplot, Heatmap, Pairplot using Seaborn
+
+
+
+📈 Key Findings
+
+
+
+
+Factor
+Correlation
+Strength
+
+
+
+
+Attendance
+0.68
+Strong ✅
+
+
+Hours Studied
+0.50
+Medium ✅
+
+
+Previous Scores
+0.20
+Weak
+
+
+Internet Access
+0.01
+No Effect
+
+
+Gender
+0.02
+No Effect
+
+
+
+
+
+✅ Conclusion
+
+
+Attendance and study hours are the two most important factors for student performance. Gender and internet access had almost no effect on scores.
+
+
+
+
+Key Recommendation — Regular attendance + daily study habits = better results.
+
+
+
+
+
+🚀 How to Run
+
+
+# install libraries
+pip install pandas numpy matplotlib seaborn
+
+# run the notebook
+jupyter notebook student_analysis.ipynb
+
