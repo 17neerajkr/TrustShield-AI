@@ -275,7 +275,7 @@ Final Security Verdict
 | Fuzzy Matching | RapidFuzz |
 | Data Processing | Pandas, NumPy |
 | Visualization | Recharts |
-| Deployment | Railway, Vercel |
+| Deployment | Railway, infinityfree |
 | Version Control | Git, GitHub |
 
 ---
