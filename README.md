@@ -262,11 +262,11 @@ Final Security Verdict
 
 ## 🏠 Home Page
 
-![Home Page](assets/home-page.png)
+![Home](assets/.png)
 
 ## 🔎 Message Analyzer
 
-![Message Analyzer](assets/message-analyzer.png)
+![MESSAGE ANALYZER](assets/MESSAGEANALYZER.png)
 
 ## 📊 Analytics Dashboard
 
