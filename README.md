@@ -2,8 +2,29 @@
 
 ## Intelligent Message Trust Assessment System
 
-> **AI-Powered Cybersecurity Platform for Detecting Scam, Phishing, and Fraudulent Messages**
+> AI-Powered Cybersecurity Platform for Detecting Scam, Phishing, and Fraudulent Messages.
 
+<p align="center">
+
+🌐 <b>Live Frontend:</b> https://trustshield.site.je/ <br>
+⚙️ <b>Backend API:</b> https://trustshield-backend-production.up.railway.app
+
+</p>
+
+<p align="center">
+  <a href="https://trustshield.site.je/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-blue?style=for-the-badge">
+  </a>
+
+  <a href="https://trustshield-backend-production.up.railway.app">
+    <img src="https://img.shields.io/badge/⚙️%20Backend%20API-Active-success?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+> **AI-Powered Cybersecurity Platform for Detecting Scam, Phishing, and Fraudulent Messages**
+---
 Analyze suspicious text messages, emails, screenshots, and social media communications using **Machine Learning, OCR, and Rule-Based Threat Intelligence**.
 
 ---
