@@ -258,29 +258,62 @@ Final Security Verdict
 
 ---
 
+
 # 📸 Project Screenshots
 
 ## 🏠 Home Page
 
-![Home](assets/.png)
+![Home Page](assest/HOME.png)
+
+---
 
 ## 🔎 Message Analyzer
 
-![MESSAGE ANALYZER](assets/MESSAGEANALYZER.png)
+![Message Analyzer](assest/MESSAGE%20ANALYZER.png)
+
+---
 
 ## 📊 Analytics Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assest/DASHBOARD.png)
+
+---
 
 ## ℹ️ About Page
 
-![About Page](assets/about-page.png)
-
-## 🖼️ OCR Screenshot Analysis
-
-![OCR Analysis](assets/ocr-analysis.png)
+![About Page](assest/ABOUT.png)
 
 ---
+
+## 🧠 Decision Making Process
+
+![Decision Making](assest/DECISION%20-%20MAKING.png)
+
+---
+
+## 🔄 System Process Flow
+
+![Process Flow](assest/PROCESS.png)
+
+---
+
+## 🛠️ Technology Stack & Use Cases
+
+![Tech Stack](assest/TECH%20-%20USE%20CASE.png)
+
+---
+
+## 🌐 Threat Landscape
+
+![Threat Landscape](assest/THREAD%20LANDSCAPE.png)
+
+---
+
+## 🖥️ Streamlit Interface
+
+![Streamlit UI](assest/STREAM%20LIT.png)
+
+----
 
 # 📦 Installation
 
