@@ -28,7 +28,8 @@
 Analyze suspicious text messages, emails, screenshots, and social media communications using **Machine Learning, OCR, and Rule-Based Threat Intelligence**.
 
 ---
-
+> **📝 Note:** Image-based message analysis is currently supported only in the Streamlit application. The feature is temporarily unavailable in the live demo due to server memory limitations and deployment constraints. Work is in progress to enable this functionality in future releases.
+----
 # 🚀 Project Overview
 
 TrustShield AI is an advanced cybersecurity platform developed to combat the growing threat of online scams, phishing attacks, and social engineering fraud.
